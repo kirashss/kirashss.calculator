@@ -25,5 +25,5 @@
 * Переключение числа на отрицательное и обратно
 
 ### Ссылка на проект
-[Ссылка]
+https://github.com/kirashss/kirashss.calculator.git
 
