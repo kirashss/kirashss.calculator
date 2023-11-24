@@ -8,7 +8,7 @@ const digit = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '.'];
 const actions = ['+', '-', 'x', '/'];
 
 // экран отображения
-const out = document.querySelector('.calc__result p');
+const out = document.querySelector('.calc__result span');
 
 // очищение экрана
 function clearAll() {
